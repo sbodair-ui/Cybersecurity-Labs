@@ -1,2 +1,2 @@
 # Cybersecurity-Labs
-Networking, Linux, cybersecurity exercises, and CTF labs.
+Linux, networking, ethical hacking, cybersecurity labs, penetration testing, and CTF challenges.
